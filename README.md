@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚽ Futebol App - Gestão de Time
 
 Um aplicativo web para gerenciar mensalidades, frequência, estatísticas e caixa de times de futebol.
@@ -288,3 +289,6 @@ Seu Nome - [@seu-github](https://github.com/seu-usuario)
 ## 📄 Licença
 
 MIT
+=======
+# marolo
+>>>>>>> 1110bdfcc562914f6c5be933fdad9170ead18aa1
