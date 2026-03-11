@@ -284,7 +284,7 @@ lsof -ti:5000 | xargs kill -9
 
 ## 👨‍💻 Autor
 
-Seu Nome - [@seu-github](https://github.com/seu-usuario)
+Seu Nome - [@masterconsultbr](https://github.com/masterconsultbr)
 
 ## 📄 Licença
 

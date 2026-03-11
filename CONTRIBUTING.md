@@ -38,7 +38,6 @@ test: testes
 ## Ideias para Contribuição
 
 - [ ] Adicionar gráficos com Chart.js
-- [ ] Integração com Stripe para pagamentos online
 - [ ] Testes automatizados
 - [ ] App mobile com React Native
 - [ ] Sistema de notificações
